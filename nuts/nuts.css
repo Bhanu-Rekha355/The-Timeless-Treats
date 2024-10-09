@@ -1,0 +1,21 @@
+.textcolor{
+    color: goldenrod;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.nav-text-feat{
+    color: goldenrod!important;
+}
+.bgm1{
+    background-color: darkslategrey;
+    height: 100vh;
+}
+.logo-design{
+    width: 15%;
+}
+.quote-text{
+    color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
