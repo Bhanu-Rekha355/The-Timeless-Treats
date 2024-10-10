@@ -1,21 +1,36 @@
-.textcolor{
+.textcolor {
     color: goldenrod;
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
-.nav-text-feat{
-    color: goldenrod!important;
+
+.nav-text-feat {
+    color: goldenrod !important;
 }
-.bgm1{
+
+.bgm1 {
     background-color: darkslategrey;
     height: 100vh;
 }
-.logo-design{
+
+.logo-design {
     width: 15%;
 }
-.quote-text{
+
+.quote-text {
     color: bisque;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
+    text-align: center;
+}
+
+.line {
+    border-color: bisque;
+}
+
+.border-page2 {
+    border-style: solid;
+    border-color: bisque;
+    height: 95vh;
 }
